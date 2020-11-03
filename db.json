@@ -32,7 +32,8 @@
         {
           "nama":"fisika",
           "endate":"25112020"
-        },
+        }],
+    },
     {
       "id":2,
       "username":"yuniar",
@@ -42,7 +43,7 @@
         {
           "nama":"fisika",
           "endate":"25112020"
-        }
+        }],
     },
     {
       "id":3,
@@ -53,7 +54,7 @@
         {
           "nama":"fisika",
           "endate":"25112020"
-        }
+        }],
     },
   ],
 
