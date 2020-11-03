@@ -21,10 +21,8 @@
       "matapelajaran":"Matematika",
       "harga":[130,230]
     }
-  },
-  "profile": {
-    "name": "typicode"
-  },
+],
+
   "user":[
     {
       "id":1,
@@ -35,9 +33,7 @@
         {
           "nama":"fisika,
           "endate":"25112020"
-        }
-      ]
-    },
+        },
     {
       "id":2,
       "username":"yuniar",
@@ -48,7 +44,6 @@
           "nama":"fisika,
           "endate":"25112020"
         }
-      ]
     },
     {
       "id":3,
@@ -60,7 +55,6 @@
           "nama":"fisika,
           "endate":"25112020"
         }
-      ]
     },
   ],
   
