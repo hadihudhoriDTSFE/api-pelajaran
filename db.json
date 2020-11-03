@@ -22,41 +22,7 @@
       "harga":[130,230]
     }
 ],
-"user":[
-    {
-      "id":1,
-      "username":"hudhori",
-      "password":"123hudhori",
-      "email":"hudhori@gmail.com",
-      "pelajaran":[
-        {
-          "nama":"fisika",
-          "endate":"25112020"
-        }],
-    },
-    {
-      "id":2,
-      "username":"yuniar",
-      "password":"123yuniar",
-      "email":"yuniar@gmail.com",
-      "pelajaran":[
-        {
-          "nama":"fisika",
-          "endate":"25112020"
-        }],
-    },
-    {
-      "id":3,
-      "username":"iskandar",
-      "password":"123iskandar",
-      "email":"iskandar@gmail.com",
-      "pelajaran":[
-        {
-          "nama":"fisika",
-          "endate":"25112020"
-        }],
-    },
-  ],
+
 
   
   
