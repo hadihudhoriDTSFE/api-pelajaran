@@ -5,7 +5,61 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+ "pelajaran": [
+    {
+      "id": 1,
+      "matapelajaran":"fisika",
+      "harga":[100,200]
+    },
+     {
+      "id": 2,
+      "matapelajaran":"Biologi",
+       "harga":[110,210]
+    }
+     {
+      "id": 3,
+      "matapelajaran":"Matematika",
+      "harga":[130,230]
+    }
+],
+"user":[
+    {
+      "id":1,
+      "username":"hudhori",
+      "password":"123hudhori",
+      "email":"hudhori@gmail.com",
+      "pelajaran":[
+        {
+          "nama":"fisika,
+          "endate":"25112020"
+        },
+    {
+      "id":2,
+      "username":"yuniar",
+      "password":"123yuniar",
+      "email":"yuniar@gmail.com",
+      "pelajaran":[
+        {
+          "nama":"fisika,
+          "endate":"25112020"
+        }
+    },
+    {
+      "id":3,
+      "username":"iskandar",
+      "password":"123iskandar",
+      "email":"iskandar@gmail.com",
+      "pelajaran":[
+        {
+          "nama":"fisika,
+          "endate":"25112020"
+        }
+    },
+  ],
+
+  
+  
+  
+  
+  
 }
